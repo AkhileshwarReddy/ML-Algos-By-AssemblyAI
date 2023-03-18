@@ -29,5 +29,5 @@ $$MSE = J(\omega, b) = \frac{1}{N}\sum_{i=1}^{n}{(y_i-(\omega x_i + b))}^{2}$$
 - Repeat n times
 
 ### Testing  
-#####Given a data point:
+Given a data point:
 - Put in the values from the data point into the equation $\hat{y}=\omega{x}+b$
